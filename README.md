@@ -41,7 +41,7 @@ To run the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/income-prediction.git
+    git clone [https://github.com/your-username/income-prediction.git](https://github.com/Garry864/Income_Classification_Project.git)
     cd income-prediction
     ```
 
@@ -64,9 +64,6 @@ The results of the analysis include:
 
 This project demonstrates the application of various classification algorithms and hyperparameter tuning techniques to a real-world income prediction task. By comparing multiple models and optimizing their parameters, we can achieve higher predictive accuracy and better understand the factors influencing income levels.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
