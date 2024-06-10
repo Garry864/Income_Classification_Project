@@ -41,7 +41,7 @@ To run the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/income-prediction.git](https://github.com/Garry864/Income_Classification_Project.git)
+    git clone https://github.com/Garry864/Income_Classification_Project.git
     cd income-prediction
     ```
 
